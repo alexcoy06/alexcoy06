@@ -1,6 +1,6 @@
 ﻿# Hi there 👋, I'm ALexander Coy
 
-Welcome to my GitHub profile! I currently work as a Teacher Assistant specializing in Frontend Development, driven by a passion for programming. With a strong background in frontend development, I've acquired valuable experience with diverse web technologies to craft engaging and intuitive user interfaces. Additionally, I'm currently broadening my expertise through a rigorous Data Science bootcamp. This program is sharpening my skills in data analysis, machine learning, and statistical modeling, empowering me to derive actionable insights and tackle intricate challenges.
+Welcome to my GitHub profile! I currently work as a Teacher Assistant specializing in Frontend Development, driven by a passion for programming. With a strong background in frontend development, I've acquired valuable experience with diverse web technologies to craft engaging and intuitive user interfaces. Additionally, I'm a Data Scientist & Python Developer with 4+ years of experience in machine learning, SQL, and automation. Expertise in data analysis, predictive modeling, and BI across healthcare, retail, and construction. Proven impact: 50% productivity boost, 10% revenue growth. Passionate about data-driven solutions.
 
 I am excited about exploring machine learning and deep learning, especially with my background in construction and machine manufacturing, which I believe will add a fascinating dimension to my DIY hobbies.
 
